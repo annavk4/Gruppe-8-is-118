@@ -21,6 +21,22 @@ Erling og prosjekteieren burde avtale statusmøter og tydelige rutiner for fremt
 
 ## Proaktive mekanismer for konflikthåndtering 
 
+Erling på 34 år bør nemlig følge de generelle prosedyrene for konflikthåndtering, slik som beskrevet i Engangsorganisasjonen (Jacobsen, 2016). Disse prosedyrene er som følger: 
+
+1. Avsette tid til å debattere/diskutere uenigheten eller konflikten med mål om å komme til et kompromiss, felles forståelse, eller løsning som begge parter kan være enige i. 
+
+2. Samme som poeng 1, men med en ordstyrer som regulerer hvem som prater og hvor lenge. 
+
+De vanligste problemene er at den ene parten blir overkjørt eller det oppstår uforventede kommunikasjonsvansker. Det er derfor hjelpsomt at begge partene blir enige på forhånd om reguleringsmetoder slik som å: 
+
+* Å la den andre parten få svare eller snakke ferdig. 
+
+* La ordstyreren ha overordnet autoritet over samtalen. 
+
+* Sette av eller ta jevnlige pauser, evt. ta en pause når samtaleheten har overskredet et tydelig/forhåndsbestemt nivå. 
+
+Ved hjelp av disse metodene vil Erling sine arbeidere lettere være på samme side i konflikter eller vanskeligstilte situasjoner, samtidig som de kan skape forståelse og enighet i uenigheter. 
+
 ## Håndtering av tidspress og "planleggingsfellen" 
  
 I starten av et prosjekt er det lett at det oppstår et sterkt handlingspress på grunn av stress knyttet til blant annet sluttdato, forventninger om fremgang og følelsen av at «vi må bare komme i gang». Dersom man gir etter for dette handlingspresset, kan det føre til raske avgjørelser som er mer uheldige enn heldige for prosjektet. For å motvirke dette bør Erling sette av tid til et oppstartsmøte. Møtet bør selvfølgelig handle om oppgaven, men også om menneskene som skal gjennomføre den og hvordan gruppen skal samarbeide. (Jacobsen, Engangsorganisasjonen, 2016, ss. 46-47)
