@@ -67,4 +67,13 @@ Gjøsund, P., & Huseby, R. (2015). To eller flere …: Basiskunnskaper i gruppep
 
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 
+## Egenevaluering av gruppekontrakt/samarbeid
+
+I starten av semestret etablerte gruppen vår en gruppekontrakt.  Gruppekontrakten fokuserer på samarbeid og kommunikasjon. I praksis har det fungert ved at vi har laget en gruppechat hvor vi selv har blitt enige om dager og tidspunkt hvor vi kan jobbe sammen med oppgavene. Kommunikasjonen er et av de viktigste punktene innenfor kontrakten vår. Gruppechaten har gjort det enklere å holde oversikt over når vi skal møtes og hva som skal gjøres. Vi opplevde at kontrakten var ett verktøy, en retning, fordi reglene vi hadde skrevet ned ble brukt i praksis. En skriftlig kontrakt er ikke nok i seg selv, alle har ansvar for å følge det gruppen har blitt enig om. 
+
+I kontrakten vår står det at når vi setter av en dag til å jobbe, så skal alle møte og delta. Dersom en finner ut at datoen ikke passer allikevel må vedkommende si i fra i god tid (senest 3 dager før). Dette for å unngå uventede avlysninger og endringer. Selvfølgelig må sykdom sees annerledes på, men kommunikasjonen må være til stede hele tiden. 
+
+Det oppstod at en brøt med kontrakten, da vi hadde planlagt en dato for å gjøre ferdig innleveringen og vedkommende ikke kunne dukke opp. Dette ble ikke kommunisert i god nok tid.  Denne situasjonen har lært oss at god kommunikasjon gjennom hele prosjektet er viktig. Selv om vi har avtalt hvordan vi skal samarbeide og når, kan det oppstå situasjoner hvor vi må være fleksible og finne løsninger underveis.
+
+Ved fremtidige prosjekter, vil vi fortsette å ta i bruk kontrakten.  Vi vil blant annet bli flinkere til å avtale hvordan uventet sykdom og fravær skal håndteres, hvordan oppgaver skal fordeles, og hva vi kan gjøre dersom noen ikke overholder en avtalt tidsfrist. 
 
