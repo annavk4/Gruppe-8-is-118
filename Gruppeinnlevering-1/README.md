@@ -36,13 +36,19 @@ Prosjektdeltakerne kan måtte forholde seg til både Erling og lederen i sin ege
 Erling og prosjekteieren burde avtale statusmøter og tydelige rutiner for fremtidige rapportering. I mandatet burde det stå hva slags beslutninger Erling selv kan ta, og hvilke saker prosjekteieren eller bystyret må godkjenne. Det kan være lurt at det står hvordan de skal håndtere endringer, risikoer og uenigheter som kan oppstå underveis slik at det ikke oppstår fremtidige problemer. Ved viktige tidspunkter i prosjektet bør det vurderes om samarbeidet fungerer og eventuelt gjøres endringer dersom det er nødvendig. Disse tydelige rollene i kontrakten er derfor viktige. (Jacobsen, 2016)
 
 
-## Proaktive mekanismer for konflikthåndtering 
+## Proaktive mekanismer for konflikthåndtering
 
-Erling på 34 år bør nemlig følge de generelle prosedyrene for konflikthåndtering, slik som beskrevet i Engangsorganisasjonen (Jacobsen, 2016). Disse prosedyrene er som følger: 
+Erling på 34 år bør nemlig følge de generelle prosedyrene for konflikthåndtering, slik som beskrevet i To eller Flere... (Gjøsund & Huseby, 2015), og Engangsorganisasjonen (Jacobsen, 2016). Disse prosedyrene er som følger: 
 
-1. Avsette tid til å debattere/diskutere uenigheten eller konflikten med mål om å komme til et kompromiss, felles forståelse, eller løsning som begge parter kan være enige i. 
+1. Erling må fortelle arbeiderne at de må komme til han hvis det er konflikt på arbeidsplassen, og formidle om at de har prosedyrer og metoder for å håndtere konflikter.
 
-2. Samme som poeng 1, men med en ordstyrer som regulerer hvem som prater og hvor lenge. 
+2. Avsette tid til å debattere/diskutere uenigheten eller konflikten med mål om å komme til et kompromiss, felles forståelse, eller løsning som begge parter kan være enige i. For eksempel, så kan Erling sette av "slakk" i arbeidskontrakten slik at det blir handlingsrom for å avklare uenigheter i arbeidstiden.
+
+3. Samme som poeng 2, men med en ordstyrer som regulerer hvem som prater og hvor lenge, som de forhåndsvis har gitt autoriteten til å styre samtalen.
+
+4. Sette mange mindre milepæler i planen som gjør det lettere for arbeiderene å holde seg motivert.
+
+5. Bruke aktiv- og passiv lytting for å sikre at hver part føler seg hørt. Dette forårsaker at partene ikke avbryter den andre og føler seg truet når den andre er uenig.
 
 De vanligste problemene er at den ene parten blir overkjørt eller det oppstår uforventede kommunikasjonsvansker. Det er derfor hjelpsomt at begge partene blir enige på forhånd om reguleringsmetoder slik som å: 
 
@@ -50,9 +56,11 @@ De vanligste problemene er at den ene parten blir overkjørt eller det oppstår 
 
 * La ordstyreren ha overordnet autoritet over samtalen. 
 
-* Sette av eller ta jevnlige pauser, evt. ta en pause når samtaleheten har overskredet et tydelig/forhåndsbestemt nivå. 
+* Sette av eller ta jevnlige pauser, evt. ta en pause når samtaleheten har overskredet et tydelig/forhåndsbestemt nivå.
 
-Ved hjelp av disse metodene vil Erling sine arbeidere lettere være på samme side i konflikter eller vanskeligstilte situasjoner, samtidig som de kan skape forståelse og enighet i uenigheter. 
+I teamet til Erling er det også tverrfaglighet. Det hjelper stort for produktiviteten i prosjektet hans hvis han stoler på de ansatte som holder de andre ansvarsrollene etter Formingfasen. Denne tilliten skaper mindre friksjon i arbeidstempoet, og kommer til å skape et bedre arbeidsmiljø som blir lettere å kommunisere med når det oppstår faktiske hindringer eller problemer i helheten av prosjektet.
+
+Ved hjelp av disse metodene vil Erling sine arbeidere lettere være på samme side i konflikter eller vanskeligstilte situasjoner, samtidig som de kan skape forståelse og enighet i motstående synspunkter. 
 
 ## Håndtering av tidspress og "planleggingsfellen" 
  
