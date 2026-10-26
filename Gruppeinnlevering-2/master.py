@@ -4,7 +4,7 @@ print("Det har gått seks uker siden teamet startet.")
 
 # Beslutning 1: Silje og Elias
 print()
-print("BESLUTNING 1: Konflikten mellom Silje og Elias")
+print("BESLUTNING 1: Silje og Elias er uenige om teknologi og design")
 print("A: Individuelle samtaler, deretter felles møte")
 print("B: Ta en rask beslutning om teknologivalget")
 
@@ -25,7 +25,7 @@ input("Trykk Enter for å gå videre til neste beslutning...")
 print()
 
 # Beslutning 2: Hamdi og Hallgeir
-print("BESLUTNING 2: Uenigheten mellom Hamdi og Hallgeir")
+print("BESLUTNING 2: Hamdi og Hallgeir er uenige om løsningen for digitale folkmøter")
 print("A: Lage papirmodeller og ta en felles vurdering")
 print("B: Bestemme at kommunens eksisterende plattform skal brukes")
 
@@ -54,7 +54,7 @@ input("Trykk Enter for å gå videre til neste beslutning...")
 
 # Beslutning 3: motivasjon i teamet
 print()
-print ("BESLUTNING 3: Å bevare motivasjonen i teamet")
+print ("BESLUTNING 3: Hvordan vil du bevare motivasjonen i teamet?")
 if tillit == 2:
      print("Samarbeidet er styrket, men tiden begynner å bli knapp.")
 elif tillit == 1: 
